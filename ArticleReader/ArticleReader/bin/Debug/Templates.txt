@@ -1,0 +1,12 @@
+pcworld,t:section|c:page
+rockpapershotgun,t:DIV|c:entry
+vrperception,t:DIV|c:entry clearfix
+pcgamer,t:DIV|c:text-copy bodyCopy auto|i:article-body
+blogs,t:DIV|c:entry-content single
+mic,t:DIV|c:article-body-content
+arstechnica,t:DIV|c:article-content post-page
+t3chpro,t:DIV|c:entry
+raspberrypi,t:DIV|c:entry-content
+gizmodo,t:DIV|c:post-wrapper js_post-wrapper 
+pcgamer,t:DIV|c:text-copy bodyCopy auto|i:article-body
+overclock3d,t:DIV|i:content
