@@ -1,5 +1,5 @@
 # Article-Reader
-Application to read out articles aloud in readable form (2016, Age 17). This project was intended for personal use, now uploaded to demonstrate my coding over the years.
+Application to read out articles aloud in readable form (2016). This project was intended for personal use, now uploaded to demonstrate my coding over the years.
 
 # Usage
 Open the application and click the "Demo" button to display an article
